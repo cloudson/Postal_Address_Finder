@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import requests
 
 print('\nBem-vindo ao sistema de consulta de CEP.')
